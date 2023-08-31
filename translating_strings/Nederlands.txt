@@ -181,6 +181,78 @@ Translation:
 English: Steel
 Translation: 
 
+
+{
+"Gimmick Form": "Bijzondere Vorm",
+"Eeveelution": "Eevee Evoluties",
+"Box Legendary": "Primaire Legendarische",
+"Pseudo Legend": "Pseudo Legendarische",
+"Download Image": "Sla op als plaatje",
+"Alternate download link": "Alternatieve download link",
+"Export Choices": "Exporteer je keuzes",
+"Import Choices": "Importeer je keuzes",
+"Reset the grid!": "Reset het veld",
+"Are you sure you want to reset the grid?": "Weet je zeker dat je het hele veld wil resetten? Je verliest hiermee alles wat je ingevuld hebt.",
+"Don't like my choices? You can overrule them here!": "Niet eens met mijn keuzes? Je kan ze hier verranderen.",
+"Write Code will put a text version of the grid here": "De keuzes in het vlak worden hier onder in tekst aangegeven als je drukt op ‘exporteer keuzes’.",
+"Then you can edit the names and Import Code to replace the images.": "Je kan hier onder alles aanpassen en dan op ‘importeer je keuze’ klikken en dan past hij het meteen aan.",
+"Most Pokemon are just their named capitalized, like SWELLOW.": "De meeste namen zijn gewoon de normale naam volledig in hoofdletters, voorbeeld: SWELLOW.",
+"Alternate forms have specific tags, like MEOWTH_2 for Galarian Meowth.": "Andere vormen hebben speciale namen, voorbeeld MEOWTH_2 voor Galarian Meowth",
+"You can also use this to keep backups": "Dit kan je ook gebruiken om je voortgang op te slaan.",
+"Spinda's spots can be randomized or manually placed.": "De vlekken van spinda kunnen willekeurig geplaatst worden door op ‘willekeurig plaatsen!’ te drukken. Of je kan ze zelf verzetten door de nummertjes er naast aan te passen.",
+"Each box pair in the corners moves its nearest spot.": "Elk van de 4 duo’s van nummers past bij 1 van de 4 plekken op spinda.",
+"Up/Down on the first box moves it Right/Left.": "De bovenste van het duo beweegt hem naar links en rechts",
+"Up/Down on the second box moves it Up/Down.": "De onderste van het duo beweegt hem naar boven en beneden",
+"Click a team box, then a Pokemon from the grid to copy it to the box.": "Klik op 1 van de 6 plekken in je team en klik dan op het plaatje van de pokemon die je op die plek in je team wil hebben.",
+"Picking...": "Aan het kiezen…",
+"Click the Shiny Charm, then click Pokemon to make them shiny.": "Klik op de shiny charm, en dan op de pokemon om hem shiny te maken.",
+"Or click here to make everything shiny.": "Of klik hier om alle pokemon shiny te maken.",
+"Randomize!": "Willekeurig plaatsen!",
+"This site uses cookies to save your choices. You can disable them here.": "De site gebruikte cookies om je keuzes op te slaan. Hier zet je ze uit",
+"This site uses cookies to save your choices. You can enable them here.": " De site gebruikte cookies om je keuzes op te slaan. Hier zet je ze aan.",
+"Pikachu Clone": "Pikachu clone",
+"Favorite": "Favoriete",
+"Team": "Team",
+"Regional": "Regionaal",
+"Bird": "Vogel",
+"Mammal": "Zoogdier",
+"Fossil": "Fosiel",
+"Regional Form": "Regionale form",
+"Gigantamax": "Gigantamax",
+"Mythical": "Mythische",
+"Ultra Beast": "Ultra beast",
+"Paradox": "Paradox",
+"Type": "Type",
+"Poké Ball": "Pokébal",
+"Baby": "Baby",
+"Spinda": "Spinda",
+"Vivillon": "Vivillon",
+"Alcremie": "Alcremie",
+"Normal": "Normaal",
+"Fire": "Vuur",
+"Water": "Water",
+"Grass": "Gras",
+"Electric": "Electrisch",
+"Ice": "Ijs",
+"Fighting": "Vecht",
+"Poison": "Gif",
+"Ground": "Grond",
+"Flying": "Vliegend",
+"Psychic": "Psygisch",
+"Bug": "Insect",
+"Rock": "Steen",
+"Ghost": "geest",
+"Dragon": "Draak",
+"Dark": "duister",
+"Steel": "staal",
+"Fairy": "Fee",
+"Starter": "starter",
+"Legend": "Legendarische"
+}
+
+
+Example how you do the favourite in Dutch: Favoriete zoogdier
+
 English: Fairy
 Translation: 
 
